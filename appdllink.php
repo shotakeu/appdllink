@@ -1,7 +1,7 @@
 <?php
 $ua = $_SERVER['HTTP_USER_AGENT'];
-$androidUrl = "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yshopping";
-$iOSUrl = "https://itunes.apple.com/jp/app/id446016180?mt=8";
+$androidUrl = "https://play.google.com/store/apps/details?id=com.twitter.android";
+$iOSUrl = "https://itunes.apple.com/jp/app/twitter/id333903271?mt=8";
 
 alterlink($ua, $androidUrl, $iOSUrl);
 

@@ -11,9 +11,9 @@ phpが動く環境ならどこでも
 * httpサーバーの適当な場所に配置する。
 
 例)
-- http:example.com/script/apdllink.php
+- http://example.com/script/apdllink.php
 
-- https:example.com/script/apdllink.php
+- https://example.com/script/apdllink.php
 
 * 上記のリンクをWebページに配置する。
 
